@@ -3,8 +3,8 @@ from typing import Final
 
 # Diretório
 rootDir: Final = Path(__file__).parent
-filesDir: Final = rootDir / 'files'
-windowIconPath: Final = filesDir / 'icon/calculator.png'
+iconDir: Final = rootDir / 'icon'
+windowIconPath: Final = iconDir / 'calculator.png'
 
 # Font sizing
 bigFontSize: Final = 40
