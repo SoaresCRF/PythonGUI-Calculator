@@ -16,7 +16,7 @@ Calculadora GUI desenvolvida em Python utilizando PySide6.
 
 Download do app para **windows** (não necessita de instalação). [Clique aqui](https://drive.google.com/file/d/1r-VLnGrk3UQWCVqdCPipoDojdAnNbjIT/view?usp=sharing) para realizar o download.
 
-##  App
+##  Screenshots
 
 ![app](https://user-images.githubusercontent.com/103540321/235695492-c82f7ac1-3e08-46c1-b654-9da176054d65.PNG)
 
