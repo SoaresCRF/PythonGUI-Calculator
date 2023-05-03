@@ -2,7 +2,7 @@
 
 # Calculadora 
 
-Calculadora GUI desenvolvida em python utilizando PySide6.
+Calculadora GUI desenvolvida em Python utilizando PySide6.
  
 + Realiza operações com números **negativos** e **positivos**
 + Operações suportadas
